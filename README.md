@@ -13,11 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-
 ![Profile views](https://gpvc.arturio.dev/VictorPoprozhuk)
-
 ![Visitor Count](https://profile-counter.glitch.me/VictorPoprozhuk/count.svg)
-
-s
