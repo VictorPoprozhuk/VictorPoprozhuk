@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Profile views](https://gpvc.arturio.dev/VictorPoprozhuk)
+
+![visits](https://visit-counter.vercel.app/counter.png?page=&s=40&c=00ff00&bg=00000000&no=2&ff=digi)
+
 ![visits](https://visit-counter.vercel.app/counter.png?page=&s=40&c=00ff00&bg=00000000&no=2&ff=digi)
