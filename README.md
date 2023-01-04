@@ -25,6 +25,5 @@ Here are some ideas to get you started:
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=VictorPoprozhuk)
 
 
-![](https://komarev.com/ghpvc/?username=)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
 
