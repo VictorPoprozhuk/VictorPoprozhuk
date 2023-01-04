@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 
 5 - ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=VictorPoprozhuk&left_text=MyPageVisitors)
 
-6 - 
+6 - ![](https://komarev.com/ghpvc/?username=VictorPoprozhuk&color=dc143c)
+
