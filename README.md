@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Profile views](https://gpvc.arturio.dev/VictorPoprozhuk)
 ![image title](https://rushter.com/counter.svg)
+![visits](https://visit-counter.vercel.app/counter.png?page=&s=40&c=00ff00&bg=00000000&no=2&ff=digi)
