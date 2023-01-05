@@ -26,4 +26,3 @@ Here are some ideas to get you started:
 
 6 - ![](https://komarev.com/ghpvc/?username=VictorPoprozhuk&color=dc143c)
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/VictorPoprozhuk.svg)](https://pkg.go.dev/github.com/VictorPoprozhuk)
