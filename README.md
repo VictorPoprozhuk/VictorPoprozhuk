@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 
 6 - ![](https://komarev.com/ghpvc/?username=VictorPoprozhuk&color=dc143c)
 
+[![Go Reference](https://pkg.go.dev/badge/www.youtube.com/watch?v=uixi3pH0fgw&list=PLP19RjSHH4aE9pB77yT1PbXzftGsXFiGl&index=27&ab_channel=TheArtofDevelopment.svg)](https://pkg.go.dev/www.youtube.com/watch?v=uixi3pH0fgw&list=PLP19RjSHH4aE9pB77yT1PbXzftGsXFiGl&index=27&ab_channel=TheArtofDevelopment)
