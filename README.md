@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 
 6 - ![](https://komarev.com/ghpvc/?username=VictorPoprozhuk&color=dc143c)
 
+7 - ![](u8views.com/2/count.svg)
